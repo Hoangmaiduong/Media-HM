@@ -1,0 +1,5 @@
+{
+  "name": "Hoang Mai Chia Đội Pickleball",
+  "description": "Một ứng dụng giúp chia ngẫu nhiên người chơi vào các đội cho giải đấu pickleball. Ứng dụng cũng sử dụng AI để tạo ra các tên đội vui nhộn theo chủ đề pickleball.",
+  "requestFramePermissions": []
+}
